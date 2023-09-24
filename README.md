@@ -17,7 +17,7 @@ Preview
 <img src="/Preview/MyBag.png" alt="Bag"/>
 
 
-<footer> 
+<footer class="flex flex-col items-center justify-center "> 
   <p>&copy; Copyright DStudio Technology. All Rights Reserved.</p>
         <p>
           Design Copied by
